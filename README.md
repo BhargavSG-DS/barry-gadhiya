@@ -1,13 +1,13 @@
-<h1 align="center">Geia sas, I'm Barry</h1>
-<h3 align="center">Python-dev</h3>
+<h1 align="center">Geia sas, I'm Bhargav</h1>
+<h3 align="center">Developer and Data Scientist</h3>
 
-- 🔭 I’m currently working on [Filthrift-app](-)
+- 🔭 I’m currently working on [CSNB](-)
 
-- 🌱 I’m currently learning **Fastapi, React**
+- 🌱 I’m currently learning **CPP OpenGL, Azure, Deep Learning NN Concepts**
 
-- 💬 Ask me about **Python, Reactjs, Cpp, C#, Bootstrap, Cyber-security, Networking, Communication, Pen-test, Sketching**
+- 💬 Ask me about **Python, **Azure, Reactjs, Cpp, Cyber-security, Networking, Communication, SketchUp, Sketching**
 
-- 📫 How to reach me **Bhargav.gadhiya74@gmail.com**
+- 📫 How to reach me **Bhargav.gadhiya@outlook.com**
 
 - ⚡ Fun fact **I'm an artist, i'm hilarious ,i'm a chess player and unfortunately im not the flash**
 
