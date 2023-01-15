@@ -1,15 +1,15 @@
-<h1 align="center">Geia sas, I'm Bhargav</h1>
-<h3 align="center">Developer and Data Scientist</h3>
+<h1 align="center">Hey, I'm Barry</h1>
+<h3 align="center">Developer and Data Scientist and unfortunately not the Flash</h3>
 
 - 🔭 I’m currently working on [CSNB](-)
 
-- 🌱 I’m currently learning **CPP OpenGL, Azure, Deep Learning NN Concepts**
+- 🌱 I’m currently learning **Cyber Security : Endpoint Protection, Azure : Fundamentals, Artificial Intelligence : ML, DL, Quantum Computing : 101**
 
-- 💬 Ask me about **Python, **Azure, Reactjs, Cpp, Cyber-security, Networking, Communication, SketchUp, Sketching**
+- 💬 Ask me about **Azure, Cyber Security, Networking, Quantum Computing, A.I. ,SketchUp, Sketching**
 
 - 📫 How to reach me **Bhargav.gadhiya@outlook.com**
 
-- ⚡ Fun fact **I'm an artist, i'm hilarious ,i'm a chess player and unfortunately im not the flash**
+- ⚡ Fun fact **I'm an artist, i'm hilarious ,i'm a good chess player**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
