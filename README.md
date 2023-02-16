@@ -1,9 +1,9 @@
 <h1 align="center">Hey, I'm Barry</h1>
 <h3 align="center">Developer and Data Scientist and unfortunately not the Flash</h3>
 
-- 🔭 I’m currently working on [CSNB](-)
+- 🔭 I’m currently working on [Database Update Automation].(-)
 
-- 🌱 I’m currently learning **Cyber Security : Endpoint Protection, Azure : Fundamentals, Artificial Intelligence : ML, DL, Quantum Computing : 101**
+- 🌱 I’m currently learning **CAzure : Fundamentals, Artificial Intelligence : ML, Quantum Computing : 101**.
 
 - 💬 Ask me about **Azure, Cyber Security, Networking, Quantum Computing, A.I. ,SketchUp, Sketching**
 
