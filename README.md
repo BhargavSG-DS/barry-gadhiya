@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Bhargav.gadhiya@outlook.com**
 
-- ⚡ Fun fact **I'm an artist, i'm hilarious ,i'm a good chess player**
+- ⚡ Fun fact **I'm an artist.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
