@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Barry</h1>
 <h3 align="center">Data Scientist and unfortunately not the Flash</h3>
 
-- 🔭 I’m currently working on **[Database Update Automation]**.
+- 🔭 I’m currently working on **[Enterprise Integration Automation and CareNet360 Patient Management Software]**.
 
 - 🌱 I’m currently learning **Azure : Fundamentals, Artificial Intelligence : ML**.
 
